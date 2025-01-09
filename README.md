@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Zzzzssssss
-- 👀 I’m interested in dev
+- 👋 Hi, I’m c++ dev
+- 👀 I’m interested in cp
 - 💞️ I’m looking to collaborate on and on
 - 😄 Pronouns: we/our
 - ⚡ Fun fact: valo
